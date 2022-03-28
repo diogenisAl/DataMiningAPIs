@@ -11,7 +11,7 @@
 ---
 
 ### Μέρος Α
-- [ ] Στον φάκελο με τον κώδικα, θα πρέπει να υπάρχει ο υποφάκελος **collected_data_old** με το αρχείο **posts.json**. Θα το βρείτε [εδώ](/additional_files/collected_data_old.rar).
+- [ ] Στον φάκελο με τον κώδικα θα πρέπει να υπάρχει ο υποφάκελος **collected_data_old** με το αρχείο **posts.json** (α το βρείτε [εδώ](/additional_files/collected_data_old.rar)).
 
 ---
 
