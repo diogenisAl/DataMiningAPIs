@@ -61,4 +61,6 @@ $ sudo apt-get install python3-tk
 
 ---
 
+<br>
+<br>
 Το αποθετήριο αξιοποιεί το υλικό που έχει δημιουργηθεί από την εκπαιδευτική ομάδα του [Ιωάννη Καρύδη](https://github.com/ioanniskarydis).
