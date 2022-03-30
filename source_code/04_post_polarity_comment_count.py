@@ -2,7 +2,7 @@ import json
 from textblob import TextBlob
 from matplotlib import pyplot as plt
 
-file = "../Lab04_subjectivity_polarity/collected_data_old/posts.json"
+file = "posts.json"
 print(file)
 no_of_comments = []
 post_values = []
