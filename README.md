@@ -26,7 +26,7 @@
 
 
 **Συμβουλή**: Αν το IDE (pyCharm σε ubuntu linux) σας εμφανίσει:
-> "UserWarning: Matplotlib is currently using agg, which is a non-GUI backend, so cannot show the figure"
+> UserWarning: Matplotlib is currently using agg, which is a non-GUI backend, so cannot show the figure
 
 τότε μια λύση θα μπορούσε να είναι:
 ```
