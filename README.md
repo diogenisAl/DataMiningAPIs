@@ -35,7 +35,9 @@ $ sudo apt-get install python3-tk
 ---
 
 ### II
-- [ ] Εκτελέστε το []().
+
+1. Συμπληρώστε κατάλληλα το path στο παρακάτω αρχείο προκειμένου να βλέπει το **posts.json** (βλ. προηγούμενο βήμα).
+2. Εκτελέστε το [04_post_polarity_comment_count.py](/source_code/04_post_polarity_comment_count.py).
 
 ---
 
