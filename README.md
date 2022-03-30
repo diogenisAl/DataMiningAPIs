@@ -46,7 +46,7 @@ $ sudo apt-get install python3-tk
 1. Συμπληρώστε κατάλληλα το **path** (γραμμή #5) στο παρακάτω αρχείο προκειμένου να βλέπει το **posts.json** (βλ. προηγούμενο βήμα).
 2. Εκτελέστε το [04_post_comment_polarity.py](/source_code/04_post_comment_polarity.py).
 3. Τι ακριβώς κάνει αυτό το πρόγραμμα;
-4. 
+
 ---
 
 ### IV
