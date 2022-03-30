@@ -2,7 +2,7 @@ import json
 from textblob import TextBlob
 from matplotlib import pyplot as plt
 
-file = "../Lab04_subjectivity_polarity/collected_data_old/posts.json"
+file = "/collected_data_old/posts.json"
 id = input("Please provide an id: ")
 with open(file) as f:
     data = json.load(f)
