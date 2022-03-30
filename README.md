@@ -12,6 +12,10 @@
 
 ---
 
+<br>
+<br>
+
+
 ### I
 1. Στον φάκελο με τον κώδικα θα πρέπει να υπάρχει ο υποφάκελος **collected_data_old** με το αρχείο **posts.json** (θα το βρείτε στα Έγγραφα @opencourses).
 2. Εκτελέστε το [04_subjectivity_polarity.py](/source_code/04_subjectivity_polarity.py).
