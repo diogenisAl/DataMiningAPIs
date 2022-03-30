@@ -10,7 +10,8 @@
 > The sentiment property returns a named tuple of the form Sentiment(polarity, subjectivity).
 > The **polarity** score is a float within the range [-1.0, 1.0]. 
 > The **subjectivity** is a float within the range [0.0, 1.0] where 0.0 is very objective and 1.0 is very subjective.
-
+  
+  
 
 **Συμβουλή**: Αν το IDE σας εμφανίσει το warning:
 > "UserWarning: Matplotlib is currently using agg, which is a non-GUI backend, so cannot show the figure" (pyCharm, ubuntu linux)
