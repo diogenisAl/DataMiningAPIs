@@ -57,7 +57,7 @@ $ sudo apt-get install python3-tk
 
 ---
 
-#### V
+### V
 1. Συμπληρώστε κατάλληλα τα **paths** (γραμμή #5) στο παρακάτω αρχείο προκειμένου να βλέπει τα αρχεία με τα δεδομένα (**posts.json** κ.ά.).
 2. Εκτελέστε το [04_comment_percentages.py](/source_code/04_comment_percentages.py).
 3. Τι ακριβώς κάνει αυτό το πρόγραμμα;
