@@ -51,7 +51,7 @@ $ sudo apt-get install python3-tk
 
 ### IV
 1. Συμπληρώστε κατάλληλα τα **paths** (γραμμή #5) στο παρακάτω αρχείο προκειμένου να βλέπει τα αρχεία με τα δεδομένα (**posts.json** κ.ά.).
-2. Εκτελέστε το [04_post_comment_compare.py](/source_code/04_post_comment_compare.py). Για input μπορείτε να βάλετε π.χ: *1952425048343502_1952523578333649*
+2. Εκτελέστε το [04_post_comment_compare.py](/source_code/04_post_comment_compare.py). <br> Για input μπορείτε να βάλετε π.χ: *1952425048343502_1952523578333649*
 3. Τι ακριβώς κάνει αυτό το πρόγραμμα;
 
 ---
