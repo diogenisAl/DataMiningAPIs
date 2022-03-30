@@ -24,10 +24,10 @@
 <br/>
 
 
-**Συμβουλή**: Αν το IDE σας εμφανίσει το warning:
+**Συμβουλή**: Αν το IDE σας εμφανίσει:
 > "UserWarning: Matplotlib is currently using agg, which is a non-GUI backend, so cannot show the figure" (pyCharm, ubuntu linux)
 
-Τότε μια πιθανή λύση είναι:
+τότε μια πιθανή λύση είναι:
 ```
 $ sudo apt-get install python3-tk
 ```
