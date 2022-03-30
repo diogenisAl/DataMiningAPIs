@@ -1,5 +1,3 @@
-## Under construction
-
 # Data Mining APIs
 
 ### Βασικά συστατικά
